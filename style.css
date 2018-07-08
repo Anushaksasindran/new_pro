@@ -1,0 +1,16 @@
+.container
+{
+  padding:30px;
+  margin: 10 px 80 px 80 px 0;
+  font-family: 'Lobster', cursive;
+
+
+}
+
+
+.my_image
+{
+  width:300px;
+  display:block;
+  margin:0 auto 0;
+}
