@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: #000;
+}
+.form{
+  border: 2px;
+  background-color: #ccccb3;
+  margin :100px 400px 30px 400px;
+}
+input{
+  padding:12px 20px;
+}
